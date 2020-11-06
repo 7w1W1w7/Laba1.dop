@@ -1,3 +1,3 @@
   
 all:
-	gcc -O2 -o run Ырср1+ .c
+	gcc -O2 -o run Laba1+ .c
